@@ -1,1 +1,1 @@
-# categories-module
+# Categories
